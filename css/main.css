@@ -11,9 +11,9 @@ a:focus, a:hover {
 body,td,th,tr,p,a {
     font-family: Latha;
     font-size: 14px;
-    background-color: green;
+    background-color: white;
 }
 name {
-    font-family: "Courier New";
+    font-family: "Times New Roman";
     font-size: 32px;
 }
