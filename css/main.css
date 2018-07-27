@@ -1,16 +1,14 @@
 
 /* Color scheme stolen from Sergey Karayev */
 a {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif
     color: #1772d0;
     text-decoration:none;
 }
 a:focus, a:hover {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif
     color: #f09228;
     text-decoration:none;
 }
-body,td,th,tr,p {
+body,td,th,tr,p,a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif
     font-size: 14px;
 }
