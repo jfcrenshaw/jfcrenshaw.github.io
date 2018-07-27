@@ -11,6 +11,7 @@ a:focus, a:hover {
 body,td,th,tr,p,a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
+    text-align: justify;
 }
 name {
     font-family: Helvetica, 'Latha', Verdana, Helvetica, sans-serif;
