@@ -12,6 +12,7 @@ body,td,th,tr,p,a {
     font-family: Latha, Verdana, Helvetica, sans-serif;
     font-size: 14px;
     background-color: white;
+    text-align:justify;
 }
 name {
     font-family: Latha, Verdana, Helvetica, sans-serif;
