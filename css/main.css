@@ -9,11 +9,11 @@ a:focus, a:hover {
     text-decoration:none;
 }
 body,td,th,tr,p,a {
-    font-family: Cambria,Latha,'Lato', Verdana, Helvetica, sans-serif;
+    font-family: Latha;
     font-size: 14px;
     background-color: 'green';
 }
 name {
-    font-family: Cambria,'Lato', Verdana, Helvetica, sans-serif;
+    font-family: Latha;
     font-size: 32px;
 }
