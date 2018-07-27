@@ -9,7 +9,7 @@ a:focus, a:hover {
     text-decoration:none;
 }
 body,td,th,tr,p,a {
-    font-family: Latha,'Lato', Verdana, Helvetica, sans-serif;
+    font-family: Cambria,Latha,'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
     background-color: 'green';
 }
