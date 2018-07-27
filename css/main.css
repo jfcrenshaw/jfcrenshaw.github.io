@@ -14,6 +14,6 @@ body,td,th,tr,p,a {
     background-color: 'green';
 }
 name {
-    font-family: courier;
+    font-family: "Courier New";
     font-size: 32px;
 }
