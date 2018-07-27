@@ -10,7 +10,8 @@ a:focus, a:hover {
 }
 body,td,th,tr,p,a {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px
+    font-size: 14px,
+    background-color: 'green'
 }
 name {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
