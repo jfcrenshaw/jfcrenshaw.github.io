@@ -13,6 +13,6 @@ body,td,th,tr,p,a {
     font-size: 14px;
 }
 name {
-    font-family: 'Latha', Verdana, Helvetica, sans-serif;
+    font-family: Helvetica, 'Latha', Verdana, Helvetica, sans-serif;
     font-size: 32px;
 }
