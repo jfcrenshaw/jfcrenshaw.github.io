@@ -1,4 +1,3 @@
-@import url('"https://fonts.googleapis.com/css?family=Archivo+Narrow:400,400i,500,500i,600,600i,700,700i"');
 
 /* Color scheme stolen from Sergey Karayev */
 a {
@@ -14,6 +13,6 @@ body,td,th,tr,p,a {
     font-size: 14px;
 }
 name {
-    font-family: 'Archivo Narrow', Arial, Verdana, Helvetica, sans-serif;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
     font-size: 32px;
 }
