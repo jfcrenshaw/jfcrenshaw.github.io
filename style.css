@@ -9,10 +9,10 @@ a:focus, a:hover {
     text-decoration:none;
 }
 body,td,th,tr,p,a {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 15px;
 }
 name {
-    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 32px;
 }
