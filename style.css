@@ -1,0 +1,18 @@
+
+/* Color scheme stolen from Sergey Karayev */
+a {
+    color: #1772d0;
+    text-decoration:none;
+}
+a:focus, a:hover {
+    color: #f09228;
+    text-decoration:none;
+}
+body,td,th,tr,p,a {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 15px;
+}
+name {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+}
