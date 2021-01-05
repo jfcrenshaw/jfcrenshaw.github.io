@@ -1,3 +1,3 @@
 Personal website at https://jfcrenshaw.github.io
 
-Design borrowed from Jon Barron (https://jonbarron.info/)
+Design based on the [Strata HTML5 template](https://html5up.net/strata).
