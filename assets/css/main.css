@@ -110,13 +110,13 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #ffb452; /*#49bf9d;*/
+		color: #ff9d1c; /*#49bf9d;*/
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffb452 !important;
+			color: #ffbb61 !important;
 			text-decoration: none;
 		}
 
