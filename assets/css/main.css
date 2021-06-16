@@ -2061,7 +2061,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0;
+			opacity: 0.1;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -2086,7 +2086,7 @@ input, select, textarea {
 				left: 50%;
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
-				opacity: 0;
+				opacity: 0.1;
 				padding: 0 1.5em;
 				position: absolute;
 				text-align: center;
@@ -2951,7 +2951,7 @@ input, select, textarea {
 
 		.poptrox-popup:hover .nav-next,
 		.poptrox-popup:hover .nav-previous {
-			opacity: 0.0;
+			opacity: 0.1;
 		}
 
 			.poptrox-popup:hover .nav-next:hover,
@@ -2960,7 +2960,7 @@ input, select, textarea {
 			}
 
 		.poptrox-popup:hover .closer {
-			opacity: 0.0;
+			opacity: 0.1;
 		}
 
 			.poptrox-popup:hover .closer:hover {
@@ -2970,7 +2970,7 @@ input, select, textarea {
 /* Touch */
 
 	body.is-touch .image.thumb:before {
-		opacity: 0.0 !important;
+		opacity: 0.1 !important;
 	}
 
 	body.is-touch .image.thumb:after {
