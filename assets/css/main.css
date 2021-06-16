@@ -2951,26 +2951,26 @@ input, select, textarea {
 
 		.poptrox-popup:hover .nav-next,
 		.poptrox-popup:hover .nav-previous {
-			opacity: 0.5;
+			opacity: 0.0;
 		}
 
 			.poptrox-popup:hover .nav-next:hover,
 			.poptrox-popup:hover .nav-previous:hover {
-				opacity: 1.0;
+				opacity: 0.75;
 			}
 
 		.poptrox-popup:hover .closer {
-			opacity: 0.5;
+			opacity: 0.0;
 		}
 
 			.poptrox-popup:hover .closer:hover {
-				opacity: 1.0;
+				opacity: 0.75;
 			}
 
 /* Touch */
 
 	body.is-touch .image.thumb:before {
-		opacity: 0.5 !important;
+		opacity: 0.0 !important;
 	}
 
 	body.is-touch .image.thumb:after {
@@ -2985,7 +2985,7 @@ input, select, textarea {
 	body.is-touch .poptrox-popup .nav-next,
 	body.is-touch .poptrox-popup .nav-previous,
 	body.is-touch .poptrox-popup .closer {
-		opacity: 1.0 !important;
+		opacity: 0.75 !important;
 	}
 
 /* XLarge */
