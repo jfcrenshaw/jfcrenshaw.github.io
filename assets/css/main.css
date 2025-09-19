@@ -3354,3 +3354,106 @@ body.is-touch .poptrox-popup .closer {
 	}
 
 }
+
+/* Night Mode Toggle Button */
+
+.night-mode-toggle {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	z-index: 1000;
+	background: #e5e5e5;
+	border: 0px solid #dcdcdc;
+	border-radius: 25px;
+	width: 60px;
+	height: 30px;
+	cursor: pointer;
+	display: flex;
+	align-items: center;
+	padding: 3px;
+	transition: all 0.3s ease;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.night-mode-toggle .toggle-slider {
+	background: white;
+	border-radius: 50%;
+	width: 24px;
+	height: 24px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 12px;
+	transition: all 0.3s ease;
+	transform: translateX(0);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.night-mode-toggle:hover {
+	transform: scale(1.05);
+}
+
+/* Dark Theme Styles */
+body.dark-mode {
+	background-color: #1a1a1a;
+	color: #e0e0e0;
+}
+
+body.dark-mode .night-mode-toggle {
+	background: #2d3748;
+}
+
+body.dark-mode .night-mode-toggle .toggle-slider {
+	background: #4a5568;
+	transform: translateX(30px);
+}
+
+body.dark-mode .night-mode-toggle .toggle-icon {
+	color: white;
+	font-size: 14px;
+}
+
+body.dark-mode .night-mode-toggle:hover {
+	transform: scale(1.05);
+}
+
+body.dark-mode #header {
+	background-color: rgba(30, 30, 30, 0.9);
+	color: #e0e0e0;
+}
+
+body.dark-mode #header h1,
+body.dark-mode #header h4,
+body.dark-mode #header h5 {
+	color: #e0e0e0;
+}
+
+body.dark-mode #main {
+	background-color: #1a1a1a;
+}
+
+body.dark-mode #footer {
+	background-color: rgba(30, 30, 30, 0.9);
+	color: #e0e0e0;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+	color: #e0e0e0;
+}
+
+body.dark-mode p {
+	color: #b0b0b0;
+}
+
+body.dark-mode #main a {
+	color: #ffbb61;
+}
+
+body.dark-mode #main a:hover {
+	color: #fddaa6 !important;
+}
