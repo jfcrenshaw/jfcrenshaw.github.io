@@ -2722,6 +2722,7 @@ input[type="button"]:disabled,
 	position: fixed;
 	text-align: right;
 	top: 0;
+	width: 35%;
 
 }
 
@@ -3102,6 +3103,20 @@ body.is-touch .poptrox-popup .nav-next,
 body.is-touch .poptrox-popup .nav-previous,
 body.is-touch .poptrox-popup .closer {
 	opacity: 0.75 !important;
+}
+
+/* Very Wide Screens - Fixed sidebar width */
+
+@media screen and (min-width: 1281px) {
+
+	#header {
+		max-width: 384px;
+	}
+
+	#main {
+		margin-left: 384px;
+	}
+
 }
 
 /* XLarge */
