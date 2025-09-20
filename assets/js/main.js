@@ -125,9 +125,9 @@
 		// Apply the saved theme
 		if (isDarkMode) {
 			$body.addClass('dark-mode');
-			$toggleIcon.text('☽');
+			$toggleIcon.text('☾');
 		} else {
-			$toggleIcon.text('☀');
+			$toggleIcon.text('☼');
 		}
 
 		// Toggle night mode when button is clicked
@@ -137,9 +137,9 @@
 
 			// Update button icon
 			if (isDarkMode) {
-				$toggleIcon.text('☽');
+				$toggleIcon.text('☾');
 			} else {
-				$toggleIcon.text('☀');
+				$toggleIcon.text('☼');
 			}
 
 			// Save theme preference

@@ -3437,13 +3437,13 @@ body.dark-mode .night-mode-toggle:hover {
 
 body.dark-mode #header {
 	background-color: rgba(30, 30, 30, 0.9);
-	color: #e0e0e0;
+	color: #ffffff;
 }
 
 body.dark-mode #header h1,
 body.dark-mode #header h4,
 body.dark-mode #header h5 {
-	color: #e0e0e0;
+	color: #ffffff;
 }
 
 body.dark-mode #main {
