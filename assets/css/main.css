@@ -3407,6 +3407,11 @@ body.is-touch .poptrox-popup .closer {
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
 }
 
+.night-mode-toggle .toggle-icon {
+	color: #4a5568;
+	font-size: 14px;
+}
+
 .night-mode-toggle:hover {
 	transform: scale(1.05);
 }

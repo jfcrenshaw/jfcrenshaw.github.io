@@ -125,9 +125,9 @@
 		// Apply the saved theme
 		if (isDarkMode) {
 			$body.addClass('dark-mode');
-			$toggleIcon.text('☾');
+			$toggleIcon.removeClass('fa-sun').addClass('fa-moon');
 		} else {
-			$toggleIcon.text('☼');
+			$toggleIcon.removeClass('fa-moon').addClass('fa-sun');
 		}
 
 		// Toggle night mode when button is clicked
@@ -137,9 +137,9 @@
 
 			// Update button icon
 			if (isDarkMode) {
-				$toggleIcon.text('☾');
+				$toggleIcon.removeClass('fa-sun').addClass('fa-moon');
 			} else {
-				$toggleIcon.text('☼');
+				$toggleIcon.removeClass('fa-moon').addClass('fa-sun');
 			}
 
 			// Save theme preference
