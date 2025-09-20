@@ -2718,7 +2718,7 @@ input[type="button"]:disabled,
 	color: rgba(255, 255, 255, 0.5);
 	height: 100%;
 	left: 0;
-	padding: 8em 2em;
+	padding: 8em 3em 8em 2em;
 	position: fixed;
 	text-align: right;
 	top: 0;
@@ -3112,11 +3112,12 @@ body.is-touch .poptrox-popup .closer {
 
 	#header {
 		max-width: 384px;
-		padding: 8em 2em;
+		padding: 8em 3em 8em 2em;
 	}
 
 	#main {
 		margin-left: 384px;
+		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 	}
 
@@ -3144,7 +3145,7 @@ body.is-touch .poptrox-popup .closer {
 	/* Header */
 
 	#header {
-		padding: 8em 2em;
+		padding: 8em 3em 8em 2em;
 		width: 30%;
 	}
 
@@ -3174,7 +3175,7 @@ body.is-touch .poptrox-popup .closer {
 
 	#main {
 		margin-left: 30%;
-		max-width: none;
+		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 30%);
 	}
@@ -3262,6 +3263,7 @@ body.is-touch .poptrox-popup .closer {
 
 	#main {
 		margin: 0;
+		max-width: 54em;
 		padding: 6em 4em;
 		width: 100%;
 	}
@@ -3326,6 +3328,7 @@ body.is-touch .poptrox-popup .closer {
 	/* Main */
 
 	#main {
+		max-width: 54em;
 		padding: 2.25em 1.5em 0.25em 1.5em;
 	}
 
