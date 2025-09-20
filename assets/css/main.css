@@ -3111,10 +3111,12 @@ body.is-touch .poptrox-popup .closer {
 
 	#header {
 		max-width: 384px;
+		padding: 8em 4em;
 	}
 
 	#main {
 		margin-left: 384px;
+		padding: 8em 4em 4em 4em;
 	}
 
 }
@@ -3141,7 +3143,7 @@ body.is-touch .poptrox-popup .closer {
 	/* Header */
 
 	#header {
-		padding: 6em 3em 3em 3em;
+		padding: 8em 4em;
 		width: 30%;
 	}
 
@@ -3172,7 +3174,7 @@ body.is-touch .poptrox-popup .closer {
 	#main {
 		margin-left: 30%;
 		max-width: none;
-		padding: 6em 3em 3em 3em;
+		padding: 8em 4em 4em 4em;
 		width: calc(100% - 30%);
 	}
 
